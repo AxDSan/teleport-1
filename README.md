@@ -1,4 +1,4 @@
-# Telelport
+# Teleport
 A tera-proxy module that lets you save a location and teleport back to it afterwards.
 
 ### Usage
